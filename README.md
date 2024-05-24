@@ -8,7 +8,7 @@
 | 4주차 | 4.8 | 리스트 | [링크](https://www.youtube.com/watch?v=kmxBTZgksSM) |
 | 5주차 | 4.29 | 튜플, 딕셔너리, 셋 | [링크](https://www.youtube.com/watch?v=p58-0aRL--I) |
 | 6주차 | 5.6 | 브루트포스, 시간복잡도 | [링크](https://youtu.be/rKtnaBfPO4o) |
-| 7주차 | 5.13 | 함수, 재귀 |  |
-| 8주차 | 5.20 | 스택, 큐 |  |
+| 7주차 | 5.13 | 함수, 재귀 | [링크](https://www.youtube.com/watch?v=DitiYoDBWb4) |
+| 8주차 | 5.20 | 스택, 큐 | [링크](https://www.youtube.com/watch?v=bRhWGJ5j95s) |
 | 9주차 | 5.27 | 기초 스터디 내부 대회 | X |
 
